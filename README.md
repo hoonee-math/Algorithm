@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/hoonee-math/Algorithm/tree/master/3379-score-of-a-string) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/hoonee-math/Algorithm/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
